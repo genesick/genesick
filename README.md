@@ -1,7 +1,4 @@
-- hi, i’m @genesick
 - interested in game & software development.
-- currently learning java.
-- experienced with VBA.
 
 <!---
 genesick/genesick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
