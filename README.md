@@ -1,4 +1,4 @@
-- interested in game & software development.
+- interested in game & software development + making robots.
 
 <!---
 genesick/genesick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
